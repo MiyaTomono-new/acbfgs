@@ -24,7 +24,7 @@ Open-source Python implementation of **AC-BFGS** (Adaptive Cautious BFGS), a qua
 ## Installation
 
 ```bash
-git clone https://github.com/[username]/acbfgs.git
+git clone https://github.com/MiyaTomono-new/acbfgs.git
 cd acbfgs
 pip install -r requirements.txt
 ```
