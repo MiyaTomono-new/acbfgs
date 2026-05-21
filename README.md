@@ -1,6 +1,6 @@
 # acbfgs — Adaptive Cautious BFGS for Nonconvex Optimization
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20323687.svg)](https://doi.org/10.5281/zenodo.20323687)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Open-source Python implementation of **AC-BFGS** (Adaptive Cautious BFGS), a quasi-Newton method for nonconvex unconstrained optimization. This repository accompanies the paper:
