@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Large data files
+*.zip
+*.tar.gz
+*.7z
+
+# Results and outputs
+results*.json
+sif_analysis.json
+sensitivity_results.json
+*.aux
+*.log
+*.out
+*.toc
+
+# Paper drafts (do not upload)
+draft.tex
+draft.pdf
+research_plan.tex
+research_plan.pdf
+
+# Figures (keep in repo for paper reproducibility)
+# *.png  -- we'll include these
+
+# IDE
+.vscode/
+.idea/
+
+# CUTEst data (too large for repo)
+mastsif_data/
+cutest_home/
+cutest_src/
+cutest_sif/
+sifdecode_home/
